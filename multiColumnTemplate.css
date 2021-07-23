@@ -273,7 +273,21 @@
 	letter-spacing: 2px;
 	border-top-width: 2px;
 	font-family: "Source Sans Pro";
+	width: auto;
 }
+ .right {
+	position:absolute;
+	right: 0;
+	text-align: center;
+	background-color: #717070;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	border-top-width: 2px;
+	font-family: "Source Sans Pro";
+	width: 15%;
+    }
 body {
 	margin-top: 0px;
 	margin-right: 0px;
